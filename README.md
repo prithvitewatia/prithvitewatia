@@ -30,4 +30,5 @@ I like to play chess and lawn tennis in my free time.
 ![Prithvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithvitewatia&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvitewatia&layout=compact)](https://github.com/prithvitewatia/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prithvitewatia&repo=matrix_h)](https://github.com/prithvitewatia/matrix_h)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prithvitewatia&repo=Advclic)](https://github.com/prithvitewatia/Advclic)
 
