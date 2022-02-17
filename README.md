@@ -4,8 +4,7 @@ Here I will be telling you about myself.
 
 ###  🔭 What did you learn today ?
 I like competitive programming and I have 5 🌟 rating on hackerrank.  
-I am currently learning Backend development with Spring Boot in  
-in compiler tools 💻.
+I am currently learning Backend development with Spring Boot 💻.
 
 ### My Projects and call for contributions 😄
 I am looking to collaborate on github.
