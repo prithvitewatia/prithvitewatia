@@ -1,15 +1,19 @@
-### Hi there 👋
-My name is Prithvi and I am a final year computer science and engineering student at Guru gobind singh indraprastha university.  
-Here I will be telling you about myself.  
+## Hi there 👋
 
-###  🔭 What did you learn today ?
-I like competitive programming and I have 5 🌟 rating on hackerrank.  
-I am currently learning Backend development with Spring Boot 💻.
+### About me
+My name is Prithvi singh and I am a full stack developer (specialize in backend ). I recently completed my Bachelors in Engineering from
+Guru Gobind Singh Indraprastha University.
 
-### My Projects and call for contributions 😄
-I am looking to collaborate on github.
+I like to learn new technologies and also contribute in open source projects. Some of the softwares and frameworks that I know are:
 
-### A developer's friend 👼
+- Spring Framework
+- Spring Boot
+- Angular
+- Django
+
+Apart from tech, I like to read India's ancient history and hindi and sanskrit language. My favourite author is Munshi Premchand.
+
+### Contact me via :email:
 You can contact me via email. My email id is prithvisinghtewatia@gmail.com  
 or [Linkedin](https://www.linkedin.com/in/prithvi-singh-tewatia-0161b5171/).   
 Ask me questions ❓ on stackoverflow or math.stackexchange. My username is prithvi singh tewatia.  
@@ -17,14 +21,10 @@ Ask me questions ❓ on stackoverflow or math.stackexchange. My username is prit
 ### Hobbies ♟️ 🎾 📺 
 I like to play chess and lawn tennis in my free time.  
 
-### Tools and technologies
-[![Generic badge](https://img.shields.io/badge/OS-Linux-<green>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Code-C-<blue>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Code-Cpp-<blue>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Code-java-<green>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Code-python-<green>.svg)](https://shields.io/)
-
 ## My stats 📈
 
 ![Prithvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithvitewatia&show_icons=true&theme=tokyonight)
+
+## My Most Used Languages :computer:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvitewatia&layout=compact)](https://github.com/prithvitewatia/github-readme-stats)
