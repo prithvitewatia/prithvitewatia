@@ -16,7 +16,7 @@ Apart from tech, I like to read India's ancient history and hindi and sanskrit l
 ### Contact me via :email:
 You can contact me via email. My email id is prithvisinghtewatia@gmail.com  
 or [Linkedin](https://www.linkedin.com/in/prithvi-singh-tewatia-0161b5171/).   
-Ask me questions ❓ on stackoverflow or math.stackexchange. My username is prithvi singh tewatia.  
+Ask me questions ❓ on [stackoverflow](https://stackoverflow.com/users/12261141/prithvi-singh).  
 
 ### Hobbies ♟️ 🎾 📺 
 I like to play chess and lawn tennis in my free time.  
